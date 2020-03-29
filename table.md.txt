@@ -1,21 +1,3 @@
-# Data-Analytics-IronHack-Bootcamp-2020
-
-This repo contains all of the practical exercises I did during the Data Analytics Bootcamp @ [Ironhack](https://www.ironhack.com/en). The entire course lasted for 9 weeks (20-Jan, 20-March 2020) with an additional career week. It was divided into 3 modules:
-
-1. ###### Git, Python and SQL;
-
-2. ###### Statistics and probability;
-
-3. ###### Machine Learning;
-
-
-
-# Lab Index
-
-In the table below is an index of each exercise ordered by bootcamp module and week, a link to the exercises, the programming language, libraries used and the main **topics covered or methods** used by me to solve the problems.
-
-
-
 | Mod/Week | Lab                                                          | Language                   | Libraries                                                    | Topics/Methods                                               |
 | -------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | M1-W1    | [resolving-git-conflicts](https://github.com/ricardozacarias/ironhack-labs/tree/master/M1-W1-lab-resolving-git-conflicts) | Git, Command Line, Bash    | -                                                            | GitHub, add, commit, push, pull, merge, conflicts, pull requests |
